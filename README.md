@@ -72,7 +72,7 @@ A PDF copy of the capstone presentation slides.
 
 2. Install the required Python packages.
 
-   pip install -r requirements.txt
+  
 
 3. Open notebooks/Amber_Gaines_Cardiac_Capstone.ipynb in Jupyter Notebook or JupyterLab. Run the cells in order. The notebook walks through raw data import, cleaning, merging, and analysis for each dataset, in sequence.
 
